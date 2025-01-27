@@ -1,8 +1,8 @@
-# BotPercent: Estimating Twitter Bot Populations from Groups to Crowds
+# Can Large Language Models Understand Preferences in Personalized Recommendation?
 
-This is a demo of the paper
+This is the official implementation of paper
 
-[**BotPercent: Estimating Twitter Bot Populations from Groups to Crowds**][paper].
+[**Can Large Language Models Understand Preferences in Personalized Recommendation?**](https://arxiv.org/abs/2501.13391).
 
 [Zhaoxuan Tan](https://zhaoxuan.info/), 
 Zinan Zeng, 
