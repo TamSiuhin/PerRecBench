@@ -1,0 +1,8 @@
+You are simulating a model to forecast User Z's rating for a new book. Provided are User Z's historical ratings:
+
+{}
+Based on this user's profile, predict the score for this next book, from a dissatisfaction level of 1 to a full satisfaction level of 5:
+
+{}
+
+Output the score precisely to two decimal places.

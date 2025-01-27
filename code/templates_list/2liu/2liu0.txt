@@ -1,0 +1,4 @@
+Given the user's past ratings:
+{}
+Estimate the rating for the following book, using a scale of 1 to 5 (1 being the lowest, 5 being the highest): {}
+Rating Prediction: (x stars, xx%)

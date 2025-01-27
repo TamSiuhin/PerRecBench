@@ -1,0 +1,5 @@
+### User Behavior history
+{}
+
+### Task Instruction
+You are given a list of user behavior history data. Your task is to analyze this data and create a user profile that describes the user's preferences, interests, and patterns of behavior. This profile should be written in a concise and coherent narrative form. Only generate user profile without any additional characters or formatting. 

@@ -1,0 +1,8 @@
+You are simulating a model to forecast User Z's rating for a new item. Provided are User Z's historical ratings:
+
+{}
+Based on this user's profile, predict the score for this next item, from a dissatisfaction level of 1 to a full satisfaction level of 5:
+
+{}
+
+Only output the predicted score without any explanation. 

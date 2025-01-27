@@ -1,0 +1,5 @@
+User's Product Rating Log:
+{}
+Utilize this history to forecast the user's rating for the item titled: {}
+Provide the forecast as follows: (x stars, xx%), the first number is predicted score and the second number is the confidence. Do not give any explanations.
+Answer:

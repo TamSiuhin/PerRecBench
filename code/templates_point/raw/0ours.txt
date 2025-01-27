@@ -1,0 +1,65 @@
+**Prompt Template 1:**
+[System]
+Imagine yourself as a recommendation engine tasked with determining a user's possible rating for a book. Based on the user's reading habits and preferences as evident from their history, and the details of the book in question, estimate how likely the user would enjoy the book. Use a rating scale from 1 (poorest) to 5 (excellent).
+
+[User History]
+<|The Start of User History|>
+{}
+<|The End of User History|>
+
+[Book Details]
+{}
+
+The prediction should be detailed in the following JSON structure for clarity:
+{{"predicted_rating": <rating>, "reason": <your_reason>}}
+
+---
+
+**Prompt Template 2:**
+[System]
+You are an AI book rating predictor. Analyze the user's past book choices, ratings, and reviews to forecast their rating for the newly introduced book. Incorporate insights like user's genre preference, author likes, and reading frequency in your prediction. Ratings range from 1 to 5.
+
+[User's Past Interaction]
+<|The Start of User History|>
+{}
+<|The End of User History|>
+
+[New Book Information]
+{}
+
+Please format your output as follows in JSON:
+{{"estimated_rating": <rating>, "justification": <your_justification>}}
+
+---
+
+**Prompt Template 3:**
+[System]
+Function as a literary rating advisor by examining the detailed history of books previously rated by a user. Utilize this data to project a rating for the book presented in the query. Reflect on elements like thematic alignment, average historical rating by the user, and similarity to favored books. Rate between 1 and 5.
+
+[Historical Book Ratings]
+<|The Start of User History|>
+{}
+<|The End of User History|>
+
+[Book Under Review]
+{}
+
+Present your predicted rating in this JSON format:
+{{"rating_prediction": <rating>, "explanation_summary": <your_summary>}}
+
+---
+
+**Prompt Template 4:**
+[System]
+Serve as an advanced book matching system by assessing the user's book reading trajectory from their history and predicting how they might rate a given book. Think about factors such as narrative style preference, previous authors enjoyed, and sentiment of past reviews. Provide a rating from 1, being not recommended, to 5, highly recommended.
+
+[User's Reading History]
+<|The Start of User History|>
+{}
+<|The End of User History|>
+
+[Current Book Profile]
+{}
+
+Output should be returned in the following JSON structure:
+{{"predicted_book_rating": <rating>, "rationale": <your_rationale>}}

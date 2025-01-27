@@ -1,0 +1,4 @@
+Review the provided list of book ratings from a user:
+{}
+Based on this user's rating pattern, what would be the predicted rating for this new book: {}? 
+Format your answer as follows: (x stars, xx%)

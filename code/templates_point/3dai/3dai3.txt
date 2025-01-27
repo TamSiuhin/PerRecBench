@@ -1,0 +1,2 @@
+Input: Reflecting on the user's preferences as shown in their rating history: {}, predict the rating that the user might give to "{}" (rating scale is from 1 to 5). Only generate score without any explanation.
+Output: 

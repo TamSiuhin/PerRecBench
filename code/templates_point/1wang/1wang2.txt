@@ -1,0 +1,4 @@
+Q: Review the user's historical item ratings:
+{}
+Using this information, estimate the user's rating for the item "{}". Only provide the rating as a single number.
+A:

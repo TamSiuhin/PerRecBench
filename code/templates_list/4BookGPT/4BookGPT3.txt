@@ -1,0 +1,8 @@
+You play the role of a virtual librarian tasked with predicting how likely User W is to enjoy a newly released book. Here are User W's ratings for several books beforehand:
+
+{}
+Using these insights, calculate User W's expected sentiment towards the book presented here:
+
+{}
+
+Express your answer as a score from 1 (hated it) to 5 (loved it), precise to two decimal places.

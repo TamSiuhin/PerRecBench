@@ -1,0 +1,8 @@
+As an expert in literary preference prediction, deduce the rating that User Y might give the following book, based on their past ratings of other books:
+
+{}
+The book in question is:
+
+{}
+
+Your prediction should be a numerical value between 1 and 5, rounded to two decimal places, reflecting User Y's possible appreciation for the book.

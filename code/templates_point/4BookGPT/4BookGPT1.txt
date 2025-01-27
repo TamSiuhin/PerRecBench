@@ -1,0 +1,9 @@
+As an expert in literary preference prediction, deduce the rating that User Y might give the following item, based on their past ratings of other items:
+
+{}
+The item in question is:
+
+{}
+
+Your prediction should be a value between 1 and 5, rounded to two decimal places, reflecting User Y's possible rating for the item.
+Only output the predicted score without any explanation.

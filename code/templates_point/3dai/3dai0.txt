@@ -1,0 +1,2 @@
+Input: Given the list of items previously rated by the user: {}, evaluate the probable score for the item titled "{}" (Scale of 1 to 5 where 1 is poor and 5 is excellent, only generate score without any explanation).
+Output: 

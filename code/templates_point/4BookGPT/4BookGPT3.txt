@@ -1,0 +1,9 @@
+You play the role of a virtual recommender tasked with predicting how likely User W is to enjoy a newly released item. Here are User W's ratings for several items beforehand:
+
+{}
+
+Using these insights, calculate User W's expected rating for the item presented here:
+
+{}
+
+Express your answer as a score from 1 (hated it) to 5 (loved it). Only output the predicted score without any explanation. 

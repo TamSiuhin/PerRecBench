@@ -1,0 +1,10 @@
+[User's Past Interaction]
+{}
+
+[New Item Information]
+{}
+
+Please format your output as follows in JSON, don't generate anything else:
+{{{{"predicted_rating": <rating>}}}}
+
+Answer:

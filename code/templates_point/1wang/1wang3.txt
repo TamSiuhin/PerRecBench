@@ -1,0 +1,4 @@
+Q: Considering the user's past evaluations of items which are:
+{}
+What would be the user's rating for the newly encountered item titled "{}"? Do not include any commentary, just specify the rating number.
+A:

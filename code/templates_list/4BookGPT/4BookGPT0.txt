@@ -1,0 +1,8 @@
+You are tasked as a computational book recommendation expert to estimate how much User X will enjoy a specific book. User X has rated previous books as follows:
+
+{}
+Given this user's history, evaluate their likely enjoyment of the book described below, on a scale from 1 (least enjoyed) to 5 (most enjoyed):
+
+{}
+
+Provide the predicted score rounded to two decimal places.

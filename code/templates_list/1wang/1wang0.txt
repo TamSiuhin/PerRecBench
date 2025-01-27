@@ -1,0 +1,4 @@
+Q: Based on the provided past ratings of the user which include:
+{}
+Predict the likely rating for the new book titled "{}". Provide the score from 1 to 5 immediately without any additional comments or explanations.
+A: {}

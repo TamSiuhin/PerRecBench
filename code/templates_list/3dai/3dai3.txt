@@ -1,0 +1,2 @@
+Input: Reflecting on the user's preferences as shown in their book history: {}, predict the rating that the user might give to "{}" (rating scale is 1 to 5).
+Output: {}.

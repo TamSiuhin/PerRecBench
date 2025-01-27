@@ -1,0 +1,5 @@
+Review the provided list of product ratings from a user:
+{}
+Based on this user's rating pattern, what would be the predicted rating for this new item: {}? 
+Format your answer as follows: (x stars, xx%), the first number is predicted score and the second number is the confidence. Do not give any explanations.
+Answer:

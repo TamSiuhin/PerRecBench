@@ -1,0 +1,4 @@
+To predict a user’s rating for a query item, follow these steps:
+1. Analyze the user’s preference for the query item using their history and profile.
+2. Predict the user’s rating for the query item: If the item is likely preferred by the user, the predicted rating should be higher than the user’s average rating. If the item is unlikely to be preferred by the user, the predicted rating should be lower than the user’s average rating.
+Act as a personalized product recommender system. Below is a list of user's rating history, shown in [User History]. Your task is to predict the user's rating for the query item, which is described in [Query Item Details]. Analyze each user's preferences for the query item based on their historical ratings to generate the prediction. Output a predicted rating ranging from 1 to 5, where 1 being not recommended and 5 being highly recommended. The final answer must strictly follow this JSON structure: {"predicted_rating": <rating>}.

@@ -1,0 +1,61 @@
+### Prompt Template 1
+You are tasked as a computational book recommendation expert to estimate how much User X will enjoy a specific book. User X has rated previous books as follows:
+
+- Book 1: {}
+- Book 2: {}
+- Book 3: {}
+- Book 4: {}
+
+Given this user's history, evaluate their likely enjoyment of the book described below, on a scale from 1 (least enjoyed) to 5 (most enjoyed):
+
+{}
+
+Provide the predicted score rounded to two decimal places.
+
+---
+
+### Prompt Template 2
+As an expert in literary preference prediction, deduce the rating that User Y might give the following book, based on their past ratings of other books:
+
+- Previous Rating 1: {}
+- Previous Rating 2: {}
+- Previous Rating 3: {}
+- Previous Rating 4: {}
+
+The book in question is:
+
+{}
+
+Your prediction should be a numerical value between 1 and 5, rounded to two decimal places, reflecting User Y¡¯s possible appreciation for the book.
+
+---
+
+### Prompt Template 3
+You are simulating a model to forecast User Z's rating for a new book. Provided are User Z's historical ratings:
+
+- Rating for Book A: {}
+- Rating for Book B: {}
+- Rating for Book C: {}
+- Rating for Book D: {}
+
+Based on this user's profile, predict the score for this next book, from a dissatisfaction level of 1 to a full satisfaction level of 5:
+
+{}
+
+Output the score precisely to two decimal places.
+
+---
+
+### Prompt Template 4
+You play the role of a virtual librarian tasked with predicting how likely User W is to enjoy a newly released book. Here are User W's ratings for several books beforehand:
+
+- Score for Book Alpha: {}
+- Score for Bonus Book: {}
+- Score for Book Gamma: {}
+- Score for Book Delta: {}
+
+Using these insights, calculate User W¡¯s expected sentiment towards the book presented here:
+
+{}
+
+Express your answer as a score from 1 (hated it) to 5 (loved it), precise to two decimal places.

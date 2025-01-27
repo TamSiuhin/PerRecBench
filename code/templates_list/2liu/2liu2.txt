@@ -1,0 +1,4 @@
+User's Book Rating Log:
+{}
+Utilize this history to forecast the user's rating for the book titled: {}
+Provide the forecast as follows: (x stars, xx%)

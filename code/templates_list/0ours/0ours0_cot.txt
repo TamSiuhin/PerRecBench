@@ -1,0 +1,8 @@
+[Users]
+{}
+
+[Query Item Details]
+{}
+
+The answer ranks users from most preferred to least preferred for the query item and adhere to the following JSON format, output the list of user indices (e.g., 1 for User1): {{{{"predicted_ranking": <user_ranking>}}}}
+Answer: Let's think step by step.

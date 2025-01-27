@@ -1,0 +1,10 @@
+[Users]
+{}
+
+[Item Information]
+{}
+
+The prediction should be conveyed in the following JSON format, do not generate anything else:
+{{{{"predicted_ranking": <ranking_list>}}}}
+
+Answer: 

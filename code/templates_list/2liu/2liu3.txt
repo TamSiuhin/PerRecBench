@@ -1,0 +1,4 @@
+Examine this user's historical ratings:
+{}
+Predict the rating for the next book listed: {}, following the scale from 1 to 5.
+Present your prediction in this manner: (x stars, xx%)

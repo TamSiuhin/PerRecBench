@@ -1,0 +1,1 @@
+Serve as an advanced item matching system by assessing the user's product reading trajectory from their history and predicting how they might rate a given item. Think about factors such as narrative style preference, previous authors enjoyed, and sentiment of past reviews. Provide a rating from 1, being not recommended, to 5, highly recommended.

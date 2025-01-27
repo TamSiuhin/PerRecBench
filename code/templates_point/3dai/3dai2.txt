@@ -1,0 +1,2 @@
+Input: Based on the types of items in the user's profile: {}, how would the user rate the item "{}" on a scale from 1 (least favorable) to 5 (most favorable)? Only generate score without any explanation.
+Output: 

@@ -1,0 +1,10 @@
+[Historical Ratings]
+{}
+
+[Item Under Review]
+{}
+
+Present your predicted rating in this JSON format, don't generate anything else:
+{{{{"predicted_rating": <rating>}}}}
+
+Answer:

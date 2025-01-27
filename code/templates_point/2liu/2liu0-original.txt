@@ -1,0 +1,3 @@
+Here is user rating history: 
+{}
+Based on above rating history, please predict user's rating for the product: {}, (1 being lowest and 5 being highest. The output should be like: (x stars, xx%), do not explain the reason.)

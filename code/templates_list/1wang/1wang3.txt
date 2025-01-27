@@ -1,0 +1,4 @@
+Q: Considering the user's past evaluations of books which are:
+{}
+What would be the user's rating for the newly encountered book titled "{}"? Do not include any commentary, just specify the rating number.
+A: {}

@@ -1,0 +1,2 @@
+Input: Considering the following titles in the user's purchase log: {}, what would be the likely rating for the new item "{}"? Please provide a prediction on a scale from 1 to 5, only generate score without any explanation.
+Output: 

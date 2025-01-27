@@ -1,0 +1,10 @@
+[Users]
+{}
+
+[Book Details]
+{}
+
+Provide the prediction in the following JSON structure, do not generate anything else:
+{{{{"predicted_ranking": <ranking_list>}}}}
+
+Answer: 

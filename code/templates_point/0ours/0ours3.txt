@@ -1,0 +1,10 @@
+[User's Rating History]
+{}
+
+[Current Item Profile]
+{}
+
+Output should be returned in the following JSON structure, don't generate anything else:
+{{{{"predicted_rating": <rating>}}}}
+
+Answer:

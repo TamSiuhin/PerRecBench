@@ -1,0 +1,5 @@
+To rank user preferences, follow these steps:
+1.	Predict the rating of the query item for each user.
+2.	Calculate the relative rating by subtracting each user’s average rating from the predicted rating.
+3.	Rank user preferences based on the relative ratings: users with higher relative ratings should be ranked higher, while those with lower relative ratings should be ranked lower.
+Act as a personalized product recommender system. Below is a group of users accompanied with each user's rating history, shown in [Users]. Your task is to rank these users based on their preference of the query item, which is described in [Query Item Details]. Analyze each user's preferences for the query item based on their historical ratings to generate this ranking. Output the list of user indices (e.g., 1 for User1), ranked from highest to lowest preference for the query item. The final output should rank users from most preferred to least preferred for the query item and adhere to the JSON structure shown below: {"predicted_ranking": <user_ranking>}

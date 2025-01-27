@@ -1,0 +1,2 @@
+Input: Here is the watching history of a user: {}. Based on this history, please predict the user’s rating for the following item:  "{}" (1 being lowest and 5 being highest)
+Output: 

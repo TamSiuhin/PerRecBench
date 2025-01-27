@@ -1,0 +1,35 @@
+1. Template:
+Given the user's past ratings:
+- Book A: {}
+- Book B: {}
+- Book C: {}
+- Book D: {}
+Estimate the rating for the following book, using a scale of 1 to 5 (1 being the lowest, 5 being the highest): {}
+Rating Prediction: (x stars, xx%)
+
+2. Template:
+Review the provided list of book ratings from a user:
+i. {}
+ii. {}
+iii. {}
+iv. {}
+Based on this user's rating pattern, what would be the predicted rating for this new book: {}? 
+Format your answer as follows: (x stars, xx%)
+
+3. Template:
+User's Book Rating Log:
+* {}
+* {}
+* {}
+* {}
+Utilize this history to forecast the user's rating for the book titled: {}
+Provide the forecast as follows: (x stars, xx%)
+
+4. Template:
+Examine this user's historical ratings:
+#1 {}
+#2 {}
+#3 {}
+#4 {}
+Predict the rating for the next book listed: {}, following the scale from 1 to 5.
+Present your prediction in this manner: (x stars, xx%)

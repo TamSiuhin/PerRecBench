@@ -1,0 +1,5 @@
+Given a user's past product ratings in the format: Title, Author, Rating. Ratings range from 1.0 to 5.0.
+
+{}
+
+The candidate product is "{}". What's the rating that the user will give?

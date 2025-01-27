@@ -1,0 +1,9 @@
+You are tasked as a recommendation expert to estimate how much User will enjoy a specific item. The user has rated previous items as follows:
+
+{}
+
+Given this user's history, evaluate their likely rating of the item described below, on a scale from 1 (least enjoyed) to 5 (most enjoyed):
+
+{}
+
+Only output the predicted score without any explanation. 

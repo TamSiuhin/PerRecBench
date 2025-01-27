@@ -1,0 +1,2 @@
+Input: Based on the types of books in the reader's profile: {}, how would the user rate the book "{}" on a scale from 1 (least favorable) to 5 (most favorable)?
+Output: {}.

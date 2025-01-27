@@ -1,0 +1,5 @@
+Given the user's past ratings:
+{}
+Estimate the rating for the following item, using a scale of 1 to 5 (1 being the lowest, 5 being the highest): {}
+Rating Prediction Format: (x stars, xx%), the first number is predicted score and the second number is the confidence. Do not give any explanations.
+Answer:

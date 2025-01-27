@@ -1,0 +1,12 @@
+[User A]
+{}
+
+[User B]
+{}
+
+
+[Query Item Details]
+{}
+
+Which user prefer the query item more? First provide a short thinking step, then output your final answer in "[User A]" or "[User B]".
+Answer: 

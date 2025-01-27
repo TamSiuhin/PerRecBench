@@ -1,0 +1,5 @@
+Examine this user's historical ratings:
+{}
+Predict the rating for the next item listed: {}, following the scale from 1 to 5.
+Present your prediction in this manner: (x stars, xx%), the first number is predicted score and the second number is the confidence. Do not give any explanations.
+Answer:

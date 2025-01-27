@@ -1,0 +1,4 @@
+Q: Given the user's previously expressed preferences below:
+{}
+Assess the anticipated rating out of 5 for the following item: "{}". Reply solely with the numerical rating.
+A:
