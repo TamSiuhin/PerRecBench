@@ -29,7 +29,6 @@ Scores range from -1 to 1, with higher values indicating better performance.
 | **Model**                     |  easy     |  easy    |  easy    |    medium |  medium  |  meidum  | hard      | hard      | hard  | **Avg.** |
 |-------------------------------|-----------|-----------|---------|-----------|-----------|----------|-----------|----------|-----------|----------|
 |                               | pointwise | pairwise | listwise | pointwise | pairwise | listwise | pointwise | pairwise | listwise |    |
-| **Open-source LLMs**          |           |          |          |           |          |          |           |          |          |    |
 | Llama3.1-8B-it       | -0.27     | 0.25     | 0.30     | 0.03      | -0.01    | -0.01    | -0.03     | 0.07     | 0.05     | 0.04     |
 | Gemma-2-9B-it        | 0.13      | 0.23     | 0.25     | 0.00      | 0.10     | -0.08    | 0.03      | 0.05     | 0.09     | 0.09     |
 | Qwen2.5-7B-it        | -0.10     | 0.17     | 0.16     | 0.06      | 0.05     | -0.05    | 0.02      | 0.08     | 0.02     | 0.05     |
@@ -45,7 +44,6 @@ Scores range from -1 to 1, with higher values indicating better performance.
 | Mistral-Large-123B-it| 0.19      | 0.31     | 0.33     | 0.09      | 0.09     | 0.06     | 0.09      | 0.08     | 0.07     | 0.15     |
 | Llama-3.1-405B-it    | 0.14      | 0.31     | 0.38     | 0.08      | 0.09     | 0.05     | 0.05      | 0.08     | 0.11     | 0.14     |
 | DeepSeek-v3-671B     | 0.23      | 0.21     | 0.23     | 0.13      | 0.10     | 0.06     | 0.14      | 0.06     | 0.06     | 0.14     |
-| **Proprietary LLMs**          |           |          |          |           |          |          |           |          |          |          |
 | Claude-3.5-Haiku     | 0.21      | 0.27     | 0.32     | 0.09      | 0.08     | 0.10     | 0.09      | 0.04     | 0.02     | 0.14     |
 | Claude-3.5-Sonnet    | 0.27      | 0.34     | 0.31     | 0.11      | 0.07     | 0.14     | 0.13      | 0.10     | 0.12     | 0.18     |
 | GPT-4o-mini          | 0.20      | 0.31     | 0.41     | 0.13      | 0.04     | 0.05     | 0.07      | 0.05     | 0.04     | 0.15     |
