@@ -1,4 +1,4 @@
-# Can Large Language Models Understand Preferences in Personalized Recommendation?
+# PerRecBench: Disentangling Personal Preferences from Rating Bias in LLM Recommendations
 
 This is the official implementation of paper
 
