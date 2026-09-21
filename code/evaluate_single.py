@@ -75,6 +75,19 @@ def load_pred(args):
 
     return pred, pred_rank
 
+def ranking_to_ranks(order):
+    """Convert a best-first permutation of user IDs 1..n to per-user ranks.
+
+    Kendall tau compares values for the same users, not user IDs occupying the
+    same position in two sorted lists. Rank zero denotes the first user.
+    """
+    order = np.asarray(order)
+    if (order.ndim != 1 or order.size < 2
+            or not np.array_equal(np.sort(order), np.arange(1, order.size + 1))):
+        raise ValueError('A ranking must contain each user ID from 1 to n exactly once (n >= 2).')
+    return np.argsort(order)
+
+
 def compute_tau(pred, label):
     all_tau = []
     for k in pred.keys():
@@ -86,7 +99,8 @@ def compute_tau(pred, label):
             # print('--'*10)
             # print("y_pred: {}".format(y_pred))
             # print("y_true: {}".format(y_true))
-            tau, _ = stats.kendalltau(y_pred, y_true)
+            tau, _ = stats.kendalltau(ranking_to_ranks(y_pred),
+                                      ranking_to_ranks(y_true))
             # print(tau)
             all_tau.append(tau)
         except:
